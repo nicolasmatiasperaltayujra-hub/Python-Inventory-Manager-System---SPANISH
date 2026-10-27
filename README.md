@@ -1,1 +1,2 @@
 # Python-Inventory-Manager-System---SPANISH
+A robust command-line inventory management system built in Python. It features a continuous interactive menu, core statistical calculations (average price, highest, and lowest item using infinity initialization), and real-time product addition. Designed with clean, modular functions and protected by robust error handling (try-except) to ensure a seamless and crash-proof user experience.
